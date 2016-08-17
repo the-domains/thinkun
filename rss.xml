@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Thinkun]]></title>
+        <description><![CDATA[Thinkun]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 18:32:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sydney Digital Agency - Thinkun - Your Quick Response Digital Agency]]></title>
+            <description><![CDATA[<article><h1>Sydney Digital Agency - Thinkun - Your Quick Response Digital Agency</h1><p>Storefronts are no longer built with bricks and mortar - they're built with ones and zeroes. The percentage of business being transacted online has been increasing year after year. This means you're losing more and more potential business with each passing day that your business is not online (or that your online presence isn't fully optimised).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ac4a512e1eeeb6d5a863fbd17997a402/noop.png?input=http%3A%2F%2Fthinkun.net%2Fwp-content%2Fuploads%2F2016%2F07%2Ftwitter_green.png"></article>]]></description>
+            <link>http://www.thinkun.net</link>
+            <guid isPermaLink="false">f5ed9ca3-2828-4d97-aa8e-1628c8f01658</guid>
+            <pubDate>Wed, 17 Aug 2016 18:32:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
